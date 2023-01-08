@@ -1,3 +1,3 @@
 # Two-Step-Attack-on-SRS
 
-## This is the formal implementation of 
+## This is the formal implementation
