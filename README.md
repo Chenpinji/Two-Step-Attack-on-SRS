@@ -1,3 +1,3 @@
-# Two-Step-Attack-on-SRS
+# VoxCloak
 
-## This is the formal implementation
+## This is the formal implementation of VoxCloak. 
