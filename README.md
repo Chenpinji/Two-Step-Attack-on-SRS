@@ -1,3 +1,3 @@
 # VoxCloak
 
-## This is the formal implementation of VoxCloak. 
+This is the formal implementation of VoxCloak. 
